@@ -1,0 +1,183 @@
+
+/* LINKS AND BODY FORMATTING */
+a {
+    color: #00df96;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    padding-top: 30px;
+    text-decoration: none;
+}
+
+body {
+    color: whitesmoke;
+    margin: 0;
+    text-align: center;
+}
+
+
+/* TOP CONTAINER */
+.top-container {
+    background: url("../images/north.jpg");
+    background-size: 1050px;
+    border: solid whitesmoke 10px;
+    height: 400px;
+    padding: 20px;
+}
+
+.headline {
+    color: white;
+    display: inline-block;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.sub-headline {
+    color: white;
+    display: block;
+    font-family: 'Gloock', sans-serif;
+    font-size: 40px;
+    margin: -80px auto;
+}
+
+
+/* SECTION HEADER */
+.section {
+    color: #032E3E;
+    display: block;
+    font-family: 'Gloock', sans-serif;
+    font-size: 45px;
+    margin: auto auto;
+    padding-top: 30px;
+}
+
+
+/* WELCOME */
+.welcome-div {
+    margin: auto auto;
+    padding-top: 30px;
+    width: 50%;
+
+}
+
+.welcome-description {
+    color: #19646A;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    padding-bottom: 50px;
+}
+
+
+/* SKILLS */
+.skills-div {
+    margin: auto auto;
+    padding-top: 30px;
+    width: 50%;
+}
+
+.skill-img-left {
+    float: left;
+    height: 70px;
+    margin-top: 20px;
+    margin-right: 15px;
+    width: 70px;
+}
+
+.skill-img-right {
+    float: right;
+    height: 90px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 90px;
+}
+
+.skill-header {
+    color: #19646A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.skill-desc {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 2.0;
+    margin-top: 10px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+
+/* CONNECT */
+.connect-div {
+    margin: auto auto;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    width: 50%;
+}
+
+.btn {
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #032E3E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00c690;
+  text-decoration: none;
+}
+
+
+/* BOTTOM-CONTAINER */
+.bottom-container {
+    background-color: #032e3e;
+    height: 110px;
+    padding: 20px 10px;
+    width: 100%;
+}
+
+
+/* MISC */
+.center-img {
+    background-color: #F9F6EE;
+    color: #032E3E;
+    height: 70px;
+    padding-bottom: 15px;
+    width: 70px;
+}
+
+.dotted {
+    border-color: #032E3E;
+    border-style: dotted none none;
+    border-width: 5px;
+    opacity: 0.3;
+    padding-top: 50px;
+    width: 20px;
+}
+
+.copyright {
+    color: #19646a;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
