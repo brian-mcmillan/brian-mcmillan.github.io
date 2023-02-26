@@ -1,1 +1,1 @@
-# Personal Website --> brian-mcmillan.github.io
+# Brian McMillan Personal Website
